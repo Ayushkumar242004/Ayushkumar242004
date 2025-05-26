@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">A passionate full stack web developer and ML enthusiast from India</h3>
+<h3 align="center">A passionate full stack web developer and ML enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkumar242004&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumar242004" /> </p>
 
