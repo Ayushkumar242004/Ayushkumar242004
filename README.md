@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkumar242004&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumar242004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkumar242004" alt="ayushkumar242004" /></a> </p>
-
 - 🔭 I’m currently working on [Quantum numbers based QRNG Testing Platform.](https://github.com/Ayushkumar242004/QNU-Frontend-Integrated)
 
 - 🌱 I’m currently learning **TensorFlow , PyTorch , Scikit-learn , Keras**
